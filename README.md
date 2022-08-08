@@ -1,2 +1,2 @@
 # Music-Speech-Separation
-Codes used for music and speech source separation
+Codes used for music - speech source separation
