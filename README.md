@@ -14,12 +14,12 @@ MSClassifierV2.pynb is the final version (STFT based)
 
 ##### Pretrained Python Code
 
-[Python Code][MSClassifierF1.py] is used. Change the paths as required.
+[Python Code][MSClassifierR1.py] is used. Change the paths as required.
 ```
-python MSClassifierF1.py
+python MSClassifierR1.py
 ```
 
 
 ##### Using colab or jupyter
 
-[Notebook](MSClassifierF1.pynb) can be used to split the uploaded file into music and speech components. Either upload a folder or a single file.
+[Notebook](MSClassifierR1.ipynb) can be used to split the uploaded file into music and speech components. Either upload a folder or a single file.
