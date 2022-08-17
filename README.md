@@ -1,8 +1,6 @@
 # Music-Speech-Separation
 
 
-MSClassifierV2.pynb is the final version (STFT based)
-
 ### ARCHITECTURE USED FOR TRAINING
 
 ![MusicSpeechClassifier](MusicSpeechClassifier.jpg)
@@ -23,3 +21,10 @@ python MSClassifierR1.py
 ##### Using colab or jupyter
 
 [Notebook](MSClassifierR1.ipynb) can be used to split the uploaded file into music and speech components. Either upload a folder or a single file.
+
+
+### Training Purposes
+
+1. [STFT based](MSClassifierV2.pynb) is the jupyter notebook/colab final version
+2. [Chroma STFT based](MSClassifierV3.pynb) is the jupyter notebook/colab final version
+
