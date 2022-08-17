@@ -16,7 +16,7 @@
 
 
 # INPUTS:
-# download the pretrained msclassifier model from () and give the path here
+# download the pretrained msclassifier model from (https://drive.google.com/file/d/1-8ghpk711viQxyKR-acVk0_ZRrV7-hd4/view?usp=sharing) and give the path here
 model_path = '/home/rajesh/Desktop/Projects/Music-Speech-Separation/msclassifier.h5'
 # copy the test sample folder path and paste here
 folder_path = '/home/rajesh/Desktop/Projects/Music-Speech-Separation/Test Data/overlay'
