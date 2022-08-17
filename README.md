@@ -14,7 +14,7 @@ MSClassifierV2.pynb is the final version (STFT based)
 
 ##### Pretrained Python Code
 
-[Python Code][MSClassifierR1.py] is used. Change the paths as required.
+[Python Code](MSClassifierR1.py) is used. Change the paths as required.
 ```
 python MSClassifierR1.py
 ```
