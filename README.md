@@ -32,3 +32,5 @@ python MSClassifierR1.py
 ### Dataset
 
 Download the used dataset [here]().
+
+Contact: s21005@students.iitmandi.ac.in
