@@ -36,5 +36,5 @@ Download the used dataset [here]().
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/its-rajesh/Audio-Bleeding-Removal/blob/cde41b94a1be385efc46888a04b30a7b82c33375/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/its-rajesh/Music-Speech-Separation/blob/b6da80795893de3c17791d43e1e21da5e56ab554/LICENSE) file for details.
 
