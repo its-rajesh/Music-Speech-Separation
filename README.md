@@ -8,7 +8,7 @@
 
 ### Usage
 
-1. Download the pretrained model [here](https://drive.google.com/file/d/1-8ghpk711viQxyKR-acVk0_ZRrV7-hd4/view?usp=sharing)
+1. Download the pre-trained model [here](https://drive.google.com/file/d/1-8ghpk711viQxyKR-acVk0_ZRrV7-hd4/view?usp=sharing)
 
 ##### Pretrained Python Code
 
